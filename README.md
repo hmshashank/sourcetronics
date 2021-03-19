@@ -1,2 +1,2 @@
 # sourcetronics
-Market place for both  users and PCB vendors
+Indias first Marketplace for Hardware manufacturers.
